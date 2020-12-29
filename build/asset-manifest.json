@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reactive-Pod/static/css/main.d17286b1.chunk.css",
+    "main.js": "/Reactive-Pod/static/js/main.bcfa9d5b.chunk.js",
+    "main.js.map": "/Reactive-Pod/static/js/main.bcfa9d5b.chunk.js.map",
+    "runtime-main.js": "/Reactive-Pod/static/js/runtime-main.e3538842.js",
+    "runtime-main.js.map": "/Reactive-Pod/static/js/runtime-main.e3538842.js.map",
+    "static/js/2.50c7c061.chunk.js": "/Reactive-Pod/static/js/2.50c7c061.chunk.js",
+    "static/js/2.50c7c061.chunk.js.map": "/Reactive-Pod/static/js/2.50c7c061.chunk.js.map",
+    "index.html": "/Reactive-Pod/index.html",
+    "precache-manifest.eb8b534e46bfeaf637af03a2779e6d01.js": "/Reactive-Pod/precache-manifest.eb8b534e46bfeaf637af03a2779e6d01.js",
+    "service-worker.js": "/Reactive-Pod/service-worker.js",
+    "static/css/main.d17286b1.chunk.css.map": "/Reactive-Pod/static/css/main.d17286b1.chunk.css.map",
+    "static/js/2.50c7c061.chunk.js.LICENSE.txt": "/Reactive-Pod/static/js/2.50c7c061.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Reactive-Pod/static/media/background.f1b639b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e3538842.js",
+    "static/js/2.50c7c061.chunk.js",
+    "static/css/main.d17286b1.chunk.css",
+    "static/js/main.bcfa9d5b.chunk.js"
+  ]
+}
